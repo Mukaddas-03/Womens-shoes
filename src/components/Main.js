@@ -208,7 +208,7 @@ const ProductCard = styled.div`
   border: 1px solid #ddd;
   padding: 15px;
   text-align: center;
-  width : 300px;
+  width : 250px;
   height :330px;
   
 
